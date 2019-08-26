@@ -1,0 +1,1 @@
+<a href="http://www.php217s.com/jihuo?id={{$id}}">用户激活</a>
